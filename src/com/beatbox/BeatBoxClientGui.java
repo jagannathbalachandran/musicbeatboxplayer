@@ -53,7 +53,7 @@ public class BeatBoxClientGui {
     }
 
     public static void main(String[] args) {
-        BeatBoxClientGui gui = new BeatBoxClientGui("MyName");
+        BeatBoxClientGui gui = new BeatBoxClientGui("Jaggu");
         gui.go();
     }
 
